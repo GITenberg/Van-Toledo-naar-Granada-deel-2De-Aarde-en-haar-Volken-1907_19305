@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5280
     wikipedia: http://fr.wikipedia.org/wiki/Jane_Dieulafoy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19305#Van-Toledo-naar-Granada-deel-2De-Aarde-en-haar-Volken-1907
 gutenberg_bookshelf: De Aarde en haar Volken
 gutenberg_issued: '2006-09-17'
 gutenberg_type: Text
